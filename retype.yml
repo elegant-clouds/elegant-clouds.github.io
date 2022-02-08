@@ -1,0 +1,20 @@
+input: .
+output: ./doc1
+url: https://doc1.elegantclouds.com
+meta:
+  title: " | Bantu Dev"
+
+branding:
+  title: Bantu
+  label: Dev
+  logo: static/img/logo5.svg
+  logoDark: static/img/logo.svg
+links:
+- text: Accueil
+  link: https://doc1.elegantclouds.com
+  icon: home
+- text: Github
+  link: https://github.com/elegant-clouds/elegant-clouds.github.io
+  icon: mark-github
+footer:
+  copyright: "Bantu by Startup Station, {{ year }}"
